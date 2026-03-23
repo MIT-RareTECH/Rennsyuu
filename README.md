@@ -8,3 +8,9 @@ EC2・テーブル名・公開鍵名:MIT-rennsyuu
 
 SSH接続する場合、
 ssh -i ~/.ssh/MIT-rennsyuu.pem ec2-user@43.206.241.191
+
+http://43.206.241.191:5000
+でFlaskにアクセス可能！
+
+
+iv-QDot+49Ch（MySQL初期パスワード）
